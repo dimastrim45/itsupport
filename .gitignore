@@ -1,0 +1,14 @@
+# osTicket secrets
+include/ost-config.php
+
+# common junk
+*.log
+.DS_Store
+
+# cache / temp (if exists)
+cache/
+tmp/
+
+# uploads/attachments (ONLY if you store them locally here)
+# upload/
+# files/
