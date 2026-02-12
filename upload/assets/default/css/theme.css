@@ -288,7 +288,8 @@ h2, .subject {
 }
 body {
   /* background: url('../images/page_bg.png') top left repeat-x #c8c8c8; */
-  background: linear-gradient(to bottom, #2F343F, #262B34);
+  /* background: linear-gradient(to bottom, #2F343F, #262B34); */
+  background: #2F343F;
 }
 #container {
   background: #fff;
