@@ -290,7 +290,7 @@ body {
   /* background: url('../images/page_bg.png') top left repeat-x #c8c8c8; */
   /* background: linear-gradient(to bottom, #2F343F, #262B34); */
   /* background: #2F343F; */
-  background: #2F343F;
+  background: linear-gradient(to bottom, #2F343F 0%, #262B34 100%);
 }
 #container {
   background: #fff;
