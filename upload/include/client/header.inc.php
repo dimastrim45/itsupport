@@ -148,6 +148,8 @@ if (($all_langs = Internationalization::getConfiguredSystemLanguages())
             </a>
         </div>
         <div class="clear"></div>
+
+        <div id="inner-wrapper">
         <?php
         if($nav){ ?>
         <ul id="nav" class="flush-left">
@@ -172,3 +174,4 @@ if (($all_langs = Internationalization::getConfiguredSystemLanguages())
          <?php }elseif($warn) { ?>
             <div id="msg_warning"><?php echo $warn; ?></div>
          <?php } ?>
+         
