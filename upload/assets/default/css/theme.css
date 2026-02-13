@@ -293,7 +293,7 @@ body {
   background: radial-gradient(circle, #4a5a71 0%, #2c3544 100%);
 }
 #container {
-  background: #fff;
+  /* background: #fff; */
   width: 840px;
   margin: 0 auto;
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
@@ -395,6 +395,7 @@ body {
   height: auto !important;
   height: 350px;
   min-height: 350px;
+  background: #fff;
 }
 #footer {
   text-align: center;
