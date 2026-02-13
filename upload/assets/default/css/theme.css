@@ -399,10 +399,12 @@ body {
 #footer {
   text-align: center;
   font-size: 11px;
-  color: #333;
+  /* color: #333; */
+  color: #efefef;
 }
 #footer a {
-  color: #333;
+  /* color: #333; */
+  color: #efefef;
 }
 #footer p {
   margin: 10px 0 0 0;
